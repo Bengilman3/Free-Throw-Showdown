@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BGPanel
+comment1.params=d
+comment1.target=BGPanel(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=FileName
+comment3.target=java.awt.image.BufferedImage\ loadImage(java.lang.String)
+comment4.params=
+comment4.target=void\ madeShot()
+comment5.params=
+comment5.target=void\ missLeft()
+comment6.params=
+comment6.target=void\ missRight()
+numComments=7
